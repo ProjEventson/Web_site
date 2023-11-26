@@ -1,3 +1,2 @@
 User-agent: *
-
 Sitemap: https://proj-eventson.netlify.app/sitemap.xml
